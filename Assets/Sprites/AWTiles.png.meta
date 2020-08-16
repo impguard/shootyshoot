@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: e4b0adc13135e1b4fae021ce6c4b2379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8694489088571389312
+    second: fog
+  - first:
+      213: -9015143161258428109
+    second: road_topleft
+  - first:
+      213: -2804986674466184199
+    second: road_top
+  - first:
+      213: 3562745485472741712
+    second: road_topright
+  - first:
+      213: -4353846435253248353
+    second: ocean_topleft
+  - first:
+      213: -6360261527594631970
+    second: ocean_top
+  - first:
+      213: 4918124886022801289
+    second: ocean_topright
+  - first:
+      213: -6365007233381971324
+    second: ocean_verticaltop
+  - first:
+      213: -8984543940696132041
+    second: plain
+  - first:
+      213: 4035921304653640100
+    second: road_left
+  - first:
+      213: -6769926685137206743
+    second: road_center
+  - first:
+      213: -2431844194721847525
+    second: road_right
+  - first:
+      213: 980771860232374475
+    second: ocean_left
+  - first:
+      213: -7090707407636884540
+    second: ocean_center
+  - first:
+      213: 4550770936892236526
+    second: ocean_right
+  - first:
+      213: -3468863511565038579
+    second: ocean_vertical
+  - first:
+      213: -8409289504460535597
+    second: forest
+  - first:
+      213: -4857674060634866461
+    second: road_bottomleft
+  - first:
+      213: -6196822351766107637
+    second: road_bottom
+  - first:
+      213: 3801483852325445102
+    second: road_bottomright
+  - first:
+      213: -3741352061736903719
+    second: ocean_bottomleft
+  - first:
+      213: 6553315770802011336
+    second: ocean_bottom
+  - first:
+      213: -2261145664873511196
+    second: ocean_bottomright
+  - first:
+      213: -549647537266127187
+    second: ocean_verticalbottom
+  - first:
+      213: -2735373853305159236
+    second: mountain
+  - first:
+      213: 345938291766649736
+    second: road_horizontal
+  - first:
+      213: 2886064720932443100
+    second: road_vertical
+  - first:
+      213: 3487245790454415558
+    second: bridge_horizontal
+  - first:
+      213: -7646716202698585329
+    second: ocean_horizontalleft
+  - first:
+      213: 5864375957776310100
+    second: ocean_horizontal
+  - first:
+      213: 5962625706498935123
+    second: ocean_horizontalright
+  - first:
+      213: 2391829221982054489
+    second: ocean_single
+  - first:
+      213: -4193122034772100157
+    second: city
+  - first:
+      213: 2258929287831335132
+    second: city_green
+  - first:
+      213: 5520228741473949830
+    second: city_red
+  - first:
+      213: -4430225975434476739
+    second: bridge_vertical
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fog
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a41344d38f65780800000000000000
+      internalID: -8694489088571389312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_topleft
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33936e12f07c3e280800000000000000
+      internalID: -9015143161258428109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_top
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f32db42b7fa219d0800000000000000
+      internalID: -2804986674466184199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_topright
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059babe842a617130800000000000000
+      internalID: 3562745485472741712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_topleft
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e112c1cb70493c0800000000000000
+      internalID: -4353846435253248353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_top
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7329b6dfcbb7a0800000000000000
+      internalID: -6360261527594631970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_topright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c568c680b04440800000000000000
+      internalID: 4918124886022801289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_verticaltop
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 440
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac97df4a3faa7a0800000000000000
+      internalID: -6365007233381971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363be953ec705380800000000000000
+      internalID: -8984543940696132041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_left
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1bf491b09720830800000000000000
+      internalID: 4035921304653640100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_center
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92285f86c836c02a0800000000000000
+      internalID: -6769926685137206743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_right
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172280e69a504ed0800000000000000
+      internalID: -2431844194721847525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc889de7fc66c9d00800000000000000
+      internalID: 980771860232374475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_center
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c392915e2fb89d90800000000000000
+      internalID: -7090707407636884540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_right
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee222ab5e06972f30800000000000000
+      internalID: 4550770936892236526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_vertical
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 330
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0adad30f1cdfc0800000000000000
+      internalID: -3468863511565038579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8853100c33c4b80800000000000000
+      internalID: -8409289504460535597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_bottomleft
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecba3dcd23169cb0800000000000000
+      internalID: -4857674060634866461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_bottom
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac7ca37e6700aa0800000000000000
+      internalID: -6196822351766107637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_bottomright
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeddd3d2c6591c430800000000000000
+      internalID: 3801483852325445102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_bottomleft
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1f745f1c041cc0800000000000000
+      internalID: -3741352061736903719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_bottom
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7e9bf8fd02fa50800000000000000
+      internalID: 6553315770802011336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_bottomright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ccc37ffbce90e0800000000000000
+      internalID: -2261145664873511196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_verticalbottom
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae859d1a724f58f0800000000000000
+      internalID: -549647537266127187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1cad919fff90ad0800000000000000
+      internalID: -2735373853305159236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_horizontal
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e4f22b050dc400800000000000000
+      internalID: 345938291766649736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road_vertical
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd317f9929c5d0820800000000000000
+      internalID: 2886064720932443100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge_horizontal
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00388f19f256030800000000000000
+      internalID: 3487245790454415558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_horizontalleft
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 111
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4defa02861e590800000000000000
+      internalID: -7646716202698585329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_horizontal
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1990ecd2726150800000000000000
+      internalID: 5864375957776310100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_horizontalright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 111
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594b7c1d708fb250800000000000000
+      internalID: 5962625706498935123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ocean_single
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 110
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a3a3410c713120800000000000000
+      internalID: 2391829221982054489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbbb89b9b90fc5c0800000000000000
+      internalID: -4193122034772100157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city_green
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b9ed0834595f10800000000000000
+      internalID: 2258929287831335132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city_red
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d47efacacb9c40800000000000000
+      internalID: 5520228741473949830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge_vertical
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33058b92fca482c0800000000000000
+      internalID: -4430225975434476739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
